@@ -121,7 +121,7 @@ section p {
 /* Large Box */
 .large-box {
   grid-column: span 2; /* Span 2 columns */
-  background-image: url('../images/01-portfolio-1.jpg');
+  background-image: url('../images/seo-challenge.png');
   background-position: center;
   height: 250px;
   border: 1px solid black; 
