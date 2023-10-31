@@ -67,6 +67,11 @@ hero-text h2 {
   font-size: 12px; 
 }
 
+/* about me image */
+#profile-img{
+  width: 20%;
+}
+
 /* Flex Container and Columns */
 .flex-container {
   display: flex;
