@@ -252,4 +252,10 @@ a {
     margin: auto;
     display: block;
 }
+.contact-links{
+  text-align: center;
+    justify-content: center;
+    margin: 0px auto;
+}
+
 }

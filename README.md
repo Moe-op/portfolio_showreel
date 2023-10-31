@@ -14,8 +14,14 @@ Comments: Adding comments in the code is helps explain what's going on. It's lik
 Semantic Simple CSS: CSS styles were organized and simplified. 
 Fits Every Screen: When viewing Moses portfolio different screen sizes– the content adapts to fit the corrent screen. It looks good on big computer screens and tiny phone screens as seen below.
 
+Desktop Screen
 <p align="center">
-  <img alt="CSS code Comments" src="CSS-Comments.png">
+  <img alt="CSS code Comments" src="desktop-full.png">
+</p>
+
+Mobile Screen
+<p align="center">
+  <img alt="CSS code Comments" src="mobile.png">
 </p>
 
 
