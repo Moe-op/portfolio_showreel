@@ -226,6 +226,9 @@ a {
     margin: 0;
     font-size: 5px;
     position: static;
+    padding-top: 0px;
+    text-align: center;
+    float: none;
   }
 
   .large-box a {
@@ -239,6 +242,14 @@ a {
   }
   header nav {
     padding-top : 0px;
+    text-align: center;
+    float: none;
   
   }
+
+  #profile-img {
+    width: 80%;
+    margin: auto;
+    display: block;
+}
 }

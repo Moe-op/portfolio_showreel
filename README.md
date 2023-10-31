@@ -2,21 +2,23 @@
 
 # Description
 
-This repository (“Moses_portfoilio_showreel”) is where we modify + add code to complete the a users story of an application using natural, non-technical language. 
+This repository (“Moses_portfoilio_showreel”) is where I will be building a portfolio page, to where I would be add new work as I progress on the course.
 
-Not only do we work on code and issues here, we also publish this source code which is available to everyone under the standard [URL link](https://moe-op.github.io/seo_challenge/). 
+This portfolio of work [URL link](https://moe-op.github.io/portfolio_showreel/) I will be able to showcase my skills and talents to employers when looking for a part-time or full-time position.
 
 
 From this exercise, I learned several important principles for writing more organised and maintainable HTML and CSS code:
 
-Semantics in HTML: I learned how to use semantic HTML elements like <header>, <nav>, <main>, and <section> to structure the web page content in a more meaningful way. This improved the accessibility of the page and makes it easier for search engines to understand this content.
-Selecting Descriptive Class and ID Names: I managed to learn the importance of selecting descriptive and meaningful class and ID names for elements, making it clear what their purpose is within the HTML.
-Commenting in CSS: I learned the value of adding comments to your CSS code to provide context and explain the purpose of specific sections or selectors. This helps me and other developers understand the code when you revisit it later.
+User-Friendly HTML: I improved the design of HTML to make it more user-friendly. I used elements like <header>, <section>, and <footer>, which are like building blocks which makes the web content easy to understand.
+Comments: Adding comments in the code is helps explain what's going on. It's like adding captions to your code pictures, making it easier for you or others to follow along.
+Semantic Simple CSS: CSS styles were organized and simplified. 
+Fits Every Screen: When viewing Moses portfolio different screen sizes– the content adapts to fit the corrent screen. It looks good on big computer screens and tiny phone screens as seen below.
+
 <p align="center">
   <img alt="CSS code Comments" src="CSS-Comments.png">
 </p>
-Consolidating and Grouping CSS Rules: Grouping related selectors and properties together helps in maintaining and reading the code.
-Accessibility: I managed to improved the accessibility of the web page by adding alt attributes to images, which is important for users.
+
+
 
 
 
