@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   font-family: 'Arial', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 0.75rem; /* 12px */
+  font-size: 12px;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   letter-spacing: 0.2rem;
@@ -120,7 +120,7 @@ section p {
 
 /* Large Box */
 .large-box {
-  grid-column: span 2; /* Span 2 columns */
+  grid-column: span 2; 
   background-image: url('../images/seo-challenge.png');
   background-position: center;
   height: 250px;
